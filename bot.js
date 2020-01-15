@@ -6,7 +6,7 @@ const prefix = ['-'];
 
 client.on('ready', () => {
    console.log(`----------------`);
-   console.log(`Credit Farmm - Script By : Kahrbaa `);
+   console.log(`Credit Farmm - Script By : Viurs `);
    console.log(`----------------`);
    console.log(`Loadinng`);
    console.log(`Loadinng.`);
@@ -129,3 +129,5 @@ if (!rank) return message.reply(' ')
 
 client.login(process.env.TOKEN);
 client2.login(process.env.TOKEN2);
+client2.login(process.env.TOKEN3);
+
